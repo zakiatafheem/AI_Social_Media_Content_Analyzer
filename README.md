@@ -101,13 +101,13 @@ The AI model analyzes the input dynamically in real time.
 
 ## Home Page
 ```md
-<img width="1871" height="871" alt="image" src="https://github.com/user-attachments/assets/e5a8ed32-be2c-4f0f-8878-eb30bb0ecefd" />
+[HOME PAGE](home.png)
 
 ```
 
 ## Analysis Output
 ```md
-<img width="1889" height="968" alt="Screenshot 2026-05-13 181943" src="https://github.com/user-attachments/assets/f30a4532-8e0a-46a9-ad33-f2f012c15831" />
+[OUTPUT PAGE](output.png)
 
 ```
 
